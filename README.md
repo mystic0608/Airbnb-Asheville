@@ -10,4 +10,15 @@ Firstly, I took these tables and did some cleaning. I mainly took several column
 
 After exporting those tables into SQL server, I began exploring the data. What possible insights could I unravel with my SQL abilities? Knowing that I would have limited space on a Tableau dashboard, I settled with a few queries that may be the most beneficial from a business perspective:
 
-* How many hosts have multiple listings? 
+* How many hosts have multiple listings? I decided to expand further. How many hosts have 1 listing? 2? 3? 4? 5-10? 11-50? 50+?
+* Because I am working with data going back to a single year, I decided to find each quarter's fiscal revenue by room type, as well as the total revenue for that quarter.
+* In another query, I wanted the longitude and latitude of each listing so I can display it beautifully on a map.
+* There are mainly four different property types that Airbnb utilizes. I decided to group them together and display it as a percentage on a donut chart.
+
+# Conclusion
+
+Without further ado, here is my SQL code.
+
+And here is my Tableau dashboard.
+
+Final thoughts - this data set was a blast to work with. Not only did I gain some valuable skills, but I learned a lot about the potential hiccups that a real data analyst might run into. A lot of the courses that I took and books that I have read do not teach you about some of the nuances you may encounter in a project from start to finish. With this project wrapped up, I am excited to start a new project where I scrape my own data set.
