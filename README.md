@@ -19,6 +19,6 @@ After exporting those tables into SQL server, I began exploring the data. What p
 
 Without further ado, here is my [SQL code](https://github.com/mystic0608/Airbnb-Asheville/blob/main/Airbnb_queries.sql).
 
-And here is my Tableau dashboard.
+And here is my [Tableau dashboard](https://public.tableau.com/app/profile/james.paumen/viz/Airbnb-Asheville/AirbnbAshevilleDashboard).
 
 Final thoughts - this data set was a blast to work with. Not only did I gain some valuable skills, but I learned a lot about the potential hiccups that a real data analyst might run into. A lot of the courses that I took and books that I have read do not teach you about some of the nuances you may encounter in a project from start to finish. With this project wrapped up, I am excited to start a new project where I scrape my own data set.
