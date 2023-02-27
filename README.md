@@ -17,7 +17,7 @@ After exporting those tables into SQL server, I began exploring the data. What p
 
 # Conclusion
 
-Without further ado, here is my [SQL code](mystic0608/Airbnb-Asheville/Airbnb_queries.sql)
+Without further ado, here is my [SQL code](https://github.com/mystic0608/Airbnb-Asheville/blob/main/Airbnb_queries.sql).
 
 And here is my Tableau dashboard.
 
